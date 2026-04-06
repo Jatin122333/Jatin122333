@@ -66,7 +66,7 @@ I'm actively seeking entry-level **Data Science** or **Data Analyst** roles wher
 
 - 🏅 **SQL (Intermediate)** — HackerRank
 - 🏅 **Introduction to Data Science** — IBM
-- 🏅 **Data Science: Visualization** — IBM
+- 🏅 **Data Science: Visualization** — edX
 
 ---
 
