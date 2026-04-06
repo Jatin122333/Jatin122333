@@ -71,14 +71,14 @@ I'm actively seeking entry-level **Data Science** or **Data Analyst** roles wher
 
 ## 📊 GitHub Stats
 
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jatin122333&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin122333&layout=compact&theme=default&hide_border=true)
+![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jatin122333&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin122333&layout=compact&hide_border=true)
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jatin-magar/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatin122333)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinmagar3@gmail.com)
 
