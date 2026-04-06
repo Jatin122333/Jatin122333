@@ -71,9 +71,11 @@ I'm actively seeking entry-level **Data Science** or **Data Analyst** roles wher
 
 ## 📊 GitHub Stats
 
-![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jatin122333&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin122333&layout=compact&hide_border=true)
+![Jatin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jatin122333&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin122333&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jatin122333&theme=tokyonight&hide_border=true)
 ---
 
 ## 🤝 Let's Connect
