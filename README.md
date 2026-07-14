@@ -51,6 +51,7 @@ I'm actively seeking entry-level **Data Science** or **Data Analyst** roles wher
 - Generated feature importance insights to identify key churn drivers
 ---
 ## 📜 Certifications
+- 🏅 **Data Analytics Job Simulation** — Deloitte(Forage)
 - 🏅 **SQL (Intermediate)** — HackerRank
 - 🏅 **Introduction to Data Science** — IBM
 - 🏅 **Data Science: Visualization** — edX
